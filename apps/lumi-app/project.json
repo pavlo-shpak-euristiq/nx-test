@@ -15,7 +15,7 @@
         "main": "apps/lumi-app/src/main.ts",
         "polyfills": ["zone.js"],
         "tsConfig": "apps/lumi-app/tsconfig.app.json",
-        "assets": ["apps/lumi-app/src/favicon.ico", "apps/lumi-app/src/assets"],
+        "assets": ["apps/lumi-app/src/favicon.png", "apps/lumi-app/src/assets"],
         "styles": ["apps/lumi-app/src/styles.scss"],
         "scripts": []
       },

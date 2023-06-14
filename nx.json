@@ -41,6 +41,10 @@
     ],
     "sharedGlobals": []
   },
+  "workspaceLayout": {
+    "appsDir": "apps",
+    "libsDir": "packages"
+  },
   "generators": {
     "@nx/angular:application": {
       "style": "scss",
